@@ -1,0 +1,6 @@
+Day 21 Git Practice Notes
+Topic: Modifying files and tracking changes
+Learning points.
+Git detects changes in tracked files
+- git status shows modified files
+- git diff shows line differences
