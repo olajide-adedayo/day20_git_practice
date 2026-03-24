@@ -6,3 +6,4 @@ This repository is for practicing Git step by step.
 - Repositoryinitialization
 - File tracking
 - Staging changes
+Feature update
