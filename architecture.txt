@@ -1,0 +1,8 @@
+3-Tier Architecture:
+
+Web Tier - Interface Layer
+Application Tier - Logic Layer
+Database Tier - Data Layer
+
+Flow:
+User -> Web -> App -> Database -> Response 
