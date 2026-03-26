@@ -1,0 +1,10 @@
+VProfile Components:
+
+Tomcat - Application Server
+MySQL - Database
+Memcache - Caching Layer
+RabbitMQ - Messaging System
+
+Flow:
+
+User -> Web -> Tomcat -> Mrmcache -> MySQL -> Response
