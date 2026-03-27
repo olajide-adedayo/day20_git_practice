@@ -1,0 +1,18 @@
+Source Code Structure & Secrets Management:
+
+Application Components:
+Application Logic
+Configuration Files
+Dependencies
+Environment Variables
+
+Secrets:
+Passwords
+API Keys
+Tokens
+
+Best Practices:
+Do not hardcode secrets
+Use environment variables
+Restrict access
+Avoid exposing secrets in repositories
