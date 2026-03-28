@@ -1,0 +1,23 @@
+Database & Persistent Storage Architecture:
+
+Database Role:
+Data storage
+Data retrieval
+Data integrity
+
+MySQL:
+Relational database
+Structure data storage
+Query processing
+
+Application Type:
+Stateless (no data retention)
+Stateful (data persistence required)
+
+Persistence:
+Data must survive restarts
+External storage required
+
+Persistent Storage:
+Independent of application lifecycle
+Ensures data continuity
