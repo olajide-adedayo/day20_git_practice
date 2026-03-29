@@ -1,0 +1,20 @@
+Services & Caching Layer:
+
+Service:
+- Enables communication between components
+- Provides stable access point
+
+MySQL Service:
+- Database exposed via service
+- Reliable backend connection
+
+Caching:
+- Stores frequently accessed data
+- Reduces database load
+
+Memcache:
+- In-memory caching system
+- Improves performance
+
+Flow:
+User -> Application -> Cache -> Database -> Response
